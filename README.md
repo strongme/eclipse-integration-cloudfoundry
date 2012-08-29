@@ -28,7 +28,7 @@
   You can always install the latest release of the Cloud Foundry Integration for Eclipse from
   here:
 
-  http://dist.springsource.com/release/TOOLS/cloudfoundry
+  http://dist.springsource.com/release/TOOLS/cloudfoundrys
 
   (put this URL into the "Install New Software" dialog of your Eclipse)
 
